@@ -33,7 +33,7 @@ function BlogCard({ blog }) {
     >
       <CardHeader className="p-0">
         <img
-          src={blog.attributes.cover.data.attributes.url}
+          src={"." + blog.attributes.cover.data.attributes.url}
           // className="w-[320px] h-[210px]  object-cover rounded-none "
           className="w-full object-cover rounded-none"
           alt={blog.attributes.title}

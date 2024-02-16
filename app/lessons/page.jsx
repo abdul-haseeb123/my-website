@@ -39,7 +39,7 @@ function CardComponent({ lesson }) {
     >
       <CardHeader className="p-0">
         <img
-          src={lesson.attributes.cover.data.attributes.url}
+          src={"." + lesson.attributes.cover.data.attributes.url}
           // as={NextImage}
           alt={lesson.attributes.title}
           className="w-[300px] h-[220px] object-cover rounded-none"

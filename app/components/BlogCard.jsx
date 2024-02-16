@@ -26,10 +26,7 @@ export default function BlogCard({ blog, className = "" }) {
         <Image
           alt="Card background"
           className="w-[300px] h-[220px] object-cover rounded-small"
-          src={
-            "./uploads/" +
-            blog.attributes.cover.data.attributes.formats.small.url
-          }
+          src={"." + blog.attributes.cover.data.attributes.formats.small.url}
           width={blog.attributes.cover.data.attributes.formats.small.width}
           height={blog.attributes.cover.data.attributes.formats.small.height}
         />
