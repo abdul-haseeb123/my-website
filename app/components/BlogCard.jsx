@@ -32,7 +32,6 @@ export default function BlogCard({ blog, className = "" }) {
           }
           width={blog.attributes.cover.data.attributes.formats.small.width}
           height={blog.attributes.cover.data.attributes.formats.small.height}
-          as={NextImage}
         />
       </CardHeader>
       <CardBody className="overflow-visible  flex flex-col gap-4 ">
