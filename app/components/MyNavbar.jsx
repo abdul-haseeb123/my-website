@@ -55,32 +55,32 @@ export default function MyNavbar() {
 
       <NavbarContent className="hidden sm:flex gap-4" justify="end">
         <NavbarItem isActive={pathname == "/"}>
-          <Link
+          <NextLink
             className={pathname == "/" && "text-pink-500 font-bold"}
             href="/"
             color={!(pathname == "/") && "foreground"}
-            as={NextLink}
+            // as={NextLink}
             aria-current={pathname == "/" && "page"}
           >
             Home
-          </Link>
+          </NextLink>
         </NavbarItem>
         {menuItems.map((item) => (
           <NavbarItem
             key={item.title}
             isActive={pathname.startsWith(item.href)}
           >
-            <Link
+            <NextLink
               className={
                 pathname.startsWith(item.href) && "text-pink-500 font-bold"
               }
               href={item.href}
               color={!pathname.startsWith(item.href) && "foreground"}
-              as={NextLink}
+              // as={NextLink}
               aria-current={pathname.startsWith(item.href) && "page"}
             >
               {item.title}
-            </Link>
+            </NextLink>
           </NavbarItem>
         ))}
 
@@ -95,36 +95,36 @@ export default function MyNavbar() {
       </NavbarContent>
       <NavbarMenu>
         <NavbarMenuItem isActive={pathname == "/"}>
-          <Link
+          <NextLink
             className={cn("w-full", {
               "text-pink-500 font-bold": pathname == "/",
             })}
             href="/"
             color={!(pathname == "/") && "foreground"}
-            as={NextLink}
+            // as={NextLink}
             aria-current={pathname == "/" && "page"}
             size="lg"
           >
             Home
-          </Link>
+          </NextLink>
         </NavbarMenuItem>
         {menuItems.map((item) => (
           <NavbarMenuItem
             key={item.title}
             isActive={pathname.startsWith(item.href)}
           >
-            <Link
+            <NextLink
               className={cn("w-full", {
                 "text-pink-500 font-bold": pathname.startsWith(item.href),
               })}
               href={item.href}
               color={!pathname.startsWith(item.href) && "foreground"}
-              as={NextLink}
+              // as={NextLink}
               aria-current={pathname.startsWith(item.href) && "page"}
               size="lg"
             >
               {item.title}
-            </Link>
+            </NextLink>
           </NavbarMenuItem>
         ))}
       </NavbarMenu>
