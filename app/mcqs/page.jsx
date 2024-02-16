@@ -24,15 +24,15 @@ async function page() {
       <h1 className="text-3xl font-bold">MCQs</h1>
       <ol className=" py-6 flex  flex-col">
         {mcqs.map((mcq, key) => (
-          <Link
+          <NextLink
             href={`/mcqs/${mcq.attributes.slug}`}
             key={mcq.attributes.slug}
             size="lg"
             className="text-pink-400 dark:text-white font-extrabold text-2xl  transition-all duration-300 ease-in-out hover:underline "
-            as={NextLink}
+            // as={NextLink}
           >
             {key + 1}. {mcq.attributes.title}
-          </Link>
+          </NextLink>
         ))}
       </ol>
     </main>
