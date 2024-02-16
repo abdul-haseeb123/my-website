@@ -17,6 +17,8 @@ import React, { useState } from "react";
 import { cn } from "@nextui-org/react";
 import { ThemeSwitcher } from "./ThemeSwitcher";
 import { Microscope } from "lucide-react";
+// import MyLogo from "../../public/svg logo.svg";
+import NextImage from "next/image";
 
 const menuItems = [
   {
@@ -45,7 +47,8 @@ export default function MyNavbar() {
     <Navbar shouldHideOnScroll onMenuOpenChange={setIsMenuOpen} isBordered>
       <NavbarContent justify="center">
         <NavbarBrand as={NextLink} href={"/"}>
-          <Microscope color="#38bdf8" size={40} />
+          <Microscope color="#38bdf8" size={35} />
+          {/* <NextImage src={"/2.png"} width={100} height={100} /> */}
           <p className="text-pink-500 font-bold text-2xl">College Chemistry</p>
         </NavbarBrand>
       </NavbarContent>

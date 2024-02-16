@@ -1,0 +1,63 @@
+3:I[1949,[],""]
+5:I[881,[],""]
+6:I[2262,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","185","static/chunks/app/layout-0acfaa9e13949461.js"],"Providers"]
+7:I[5533,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","185","static/chunks/app/layout-0acfaa9e13949461.js"],""]
+8:I[1954,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","649","static/chunks/app/lessons/page-cdcfc2a57982b995.js"],""]
+4:["slug","stoichiometry-basic-concepts","d"]
+0:["3NZLV-UjYIRr5ppoaC9D2",[[["",{"children":["lessons",{"children":[["slug","stoichiometry-basic-concepts","d"],{"children":["__PAGE__?{\"slug\":\"stoichiometry-basic-concepts\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["lessons",{"children":[["slug","stoichiometry-basic-concepts","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","lessons","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","lessons","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"dark:bg-gradient-to-tr dark:from-slate-900 dark:via-zinc-900 dark:to-blue-950 min-h-screen  __className_ac60ce","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":["$","div",null,{"aria-label":"Loading","className":"relative flex-col gap-2 items-center justify-center h-screen grid place-content-center","children":[["$","div",null,{"className":"relative flex w-10 h-10","children":[["$","i",null,{"className":"absolute w-full h-full rounded-full animate-spinner-ease-spin border-solid border-t-transparent border-l-transparent border-r-transparent border-3 border-b-primary"}],["$","i",null,{"className":"absolute w-full h-full rounded-full opacity-75 animate-spinner-linear-spin border-dotted border-t-transparent border-l-transparent border-r-transparent border-3 border-b-primary"}]]}],"$undefined"]}],"loadingStyles":[],"loadingScripts":[],"hasLoading":true,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-[#7f27ff] rounded-lg shadow dark:bg-gray-900 m-4","children":["$","div",null,{"className":"w-full max-w-screen-xl mx-auto p-4 md:py-8","children":[["$","div",null,{"className":"sm:flex sm:items-center sm:justify-between","children":[["$","$L8",null,{"href":"/","className":"flex items-center mb-4 sm:mb-0  space-x-3 rtl:space-x-reverse","children":[["$","img",null,{"src":"/2.png","className":"h-24","width":100,"height":100}],["$","span",null,{"className":"self-center text-2xl font-semibold whitespace-nowrap dark:text-white text-white","children":"College Chemistry"}]]}],["$","ul",null,{"className":"flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400","children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","className":"hover:underline me-4 md:me-6 text-white","children":"About"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/mcqs","className":"hover:underline me-4 md:me-6 text-white","children":"MCQs"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/lessons","className":"hover:underline me-4 md:me-6 text-white","children":"Lessons"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/blogs","className":"hover:underline text-white","children":"Blogs"}]}]]}]]}],["$","hr",null,{"className":"my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"}],["$","span",null,{"className":"block text-sm text-white sm:text-center dark:text-gray-400","children":["© 2023"," ",["$","$L8",null,{"href":"/","className":"hover:underline text-white","children":"College Chemistry™"}],". All Rights Reserved."]}]]}]}]]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/my-website/_next/static/css/2cb032dd6b2bf40d.css","precedence":"next","crossOrigin":""}]],"$L9"]]]]
+a:Tfb7,# Stoichiometry: Basic Concepts in Chemistry
+
+**1. Introduction**
+
+* Chemistry: The study of the properties, composition, structure, and transformations of matter.
+* Atom: The smallest unit of an element, retaining all the chemical characteristics unique to that element. Examples: Ne, Fe, Na, Ca
+* Molecule: A molecule consists of two or more atoms chemically bonded together. Examples: H2O, CH4, NH3, HCl
+* Ion: An ion is an atom or molecule that possesses a net electric charge. Ions can be categorized into two types: cations, which carry a positive charge, and anions, which carry a negative charge. These charges result from the loss or gain of electrons, respectively.
+    * Positively charged ions: Na⁺, H⁺, Ca²⁺, N³⁺, Al³⁺ etc.
+    * Negatively charged ions: C⁴⁻, C²⁻, O²⁻, S²⁻ etc.
+* Formula units: In chemistry, the formula units describe the simplest whole-number ratio of ions in an ionic compound. Example: In the case of common table salt, the formula unit is NaCl. This indicates that for every sodium ion (Na⁺), there is one chloride ion (Cl⁻) in the compound.
+* Element: An element represents the purest and simplest form of matter, comprising atoms with identical atomic numbers and cannot be chemically decomposed further. Examples: Ne, Fe, Na, Ca, He, Au, Ag
+* Compound: A compound is a pure substance composed of atoms or ions from two or more different elements in specific proportions and can be chemically broken down into simpler substances. Examples: H2O, H2O2, CH4, NH3, HCl, NaCl, FeCl3, Na2CO3 etc.
+
+**2. Atomic Number and Mass**
+
+* Atomic Number (Z): The atomic number is the count of protons in an element's nucleus, often represented as 'Z.'
+* Mass Number (A): The mass number is the sum of protons and neutrons in an atom's nucleus, typically denoted as 'A,' with the equation A = Z + N.
+* Atomic Mass (Atomic Weight): Atomic mass, also known as atomic weight, refers to the average mass of all isotopes of an element, compared to the mass of one atom of carbon-12 (amu).
+    * Atomic mass = Σ (mass of isotope i × abundance of isotope i)
+* Atomic Mass Unit (amu): An atomic mass unit, denoted as amu, is a unit of mass used to express the atomic or molecular weight of substances. It is defined as 1/12 of the mass of a carbon-12 atom.
+    * 1 amu = 1.66054 × 10⁻²⁷ kg
+    * 1 amu ≈ 9.11 × 10⁻³¹ kg
+
+**3. Chemical Formulas**
+
+* A chemical formula is a symbolic representation used to describe a compound.
+    * Example: Water: H₂O, Lime stone OR Calcium carbonate: CaCO₃
+
+**Types of Formulas:**
+
+1. **Empirical Formula (Simplest Formula):** The empirical formula, or simplest formula, represents the smallest or most basic ratio of atoms within a compound. It is less commonly used in chemical reactions. Many ionic compounds, which consist of non-discrete ions, can be represented by the empirical formula.
+    * Examples:
+        * Sodium Chloride (NaCl)
+        * Magnesium Chloride (MgCl₂)
+2. **Molecular Formula:** The molecular formula shows the actual number of atoms present in a compound and is frequently used in chemical reactions. Most molecular compounds, which consist of discrete molecules, can be represented by both the empirical and molecular formulas.
+    * Examples:
+        * Benzene: C₆H₆ (Molecular Formula)
+        * Glucose: C₆H₁₂O₆ (Molecular Formula)
+    * The molecular formula can be determined using the formula:
+        * Molecular Formula = (Empirical Formula) n
+        * Where;
+            * n is a whole number, calculated as n = mass of molecule / mass of empirical formula
+
+**4. Mole Concept**
+
+* Mole: The atomic mass, molecular mass, or formula mass of a substance expressed in grams is called mole. Mole is the S.I unit used for measuring the amount of substance and it is denoted by n.
+    * Examples:
+        * One mole of C = 12 gm
+        * One mole of H₂O = 18 gm
+        * One mole of CaCO₃ = 100 gm
+        * One mole of Fe₂O₃ = 160 gm
+* Molar Mass: The mass in gram of
+2:["$","main",null,{"className":"container p-4 prose dark:prose-invert mx-auto prose-a:text-pink-500 prose-headings:text-pink-400 prose-strong:text-pink-400 prose-lg hover:prose-headings:text-pink-500 hover:prose-a:text-pink-300 prose-h1:text-pink-400 ","children":[null,["$","div",null,{"className":"prose dark:prose-invert mt-9","dangerouslySetInnerHTML":{"__html":"$a"}}]]}]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Stoichiometry: Basic Concepts in Chemistry"}],["$","meta","3",{"name":"description","content":" The study of the properties, composition, structure, and transformations of matter."}],["$","meta","4",{"property":"og:title","content":"Stoichiometry: Basic Concepts in Chemistry"}],["$","meta","5",{"property":"og:description","content":" The study of the properties, composition, structure, and transformations of matter."}],["$","meta","6",{"property":"og:image","content":"http://localhost:1337/uploads/photo_1603126857599_f6e157fa2fe6_41f6d084e6.jpeg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Stoichiometry: Basic Concepts in Chemistry"}],["$","meta","10",{"name":"twitter:description","content":" The study of the properties, composition, structure, and transformations of matter."}],["$","meta","11",{"name":"twitter:image","content":"http://localhost:1337/uploads/photo_1603126857599_f6e157fa2fe6_41f6d084e6.jpeg"}],["$","link","12",{"rel":"icon","href":"/my-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/my-website/icon.png?e0f9cca74c5a12f2","type":"image/png","sizes":"192x192"}],["$","link","14",{"rel":"icon","href":"/my-website/icon2.png?f1a27ef9cf08f950","type":"image/png","sizes":"512x512"}],["$","link","15",{"rel":"icon","href":"/my-website/icon3.png?3d88ef6bc0010919","type":"image/png","sizes":"16x16"}],["$","link","16",{"rel":"icon","href":"/my-website/icon4.png?f0bbc6f831e92a46","type":"image/png","sizes":"32x32"}],["$","link","17",{"rel":"apple-touch-icon","href":"/my-website/apple-icon.png?91a55f3abc9063e7","type":"image/png","sizes":"180x180"}]]
+1:null

@@ -1,6 +1,7 @@
 import NextImage from "next/image";
 import ScienceBroS from "../public/chemistry-lab-animate.svg";
 import { DisplayBlogs } from "./components/BlogCard";
+import { Image } from "@nextui-org/react";
 
 async function getFirstSix() {
   const res = await fetch(
@@ -38,7 +39,7 @@ export default async function Home() {
   const first_six = data.data;
   return (
     <main>
-      <section className="sm:h-[calc(100vh-65px)] md:bg-blob-haikei bg-contain bg-no-repeat flex flex-col-reverse sm:flex-row-reverse justify-evenly items-center mr-6">
+      <section className="sm:h-[calc(100vh-65px)]  bg-contain bg-no-repeat flex flex-col-reverse sm:flex-row-reverse justify-evenly items-center mr-6">
         <div className="sm:w-[50%] w-[calc(100vw-12px)] flex flex-col gap-5 mx-auto">
           <TypographyH1 content="Stay ahead of the curve in the ever-evolving field of chemistry." />
           <TypographyH3>
@@ -47,9 +48,16 @@ export default async function Home() {
           </TypographyH3>
         </div>
         <div className="">
-          <NextImage src={ScienceBroS} priority={100} />
+          <NextImage
+            src={ScienceBroS}
+            width={700}
+            height={700}
+            priority={100}
+            quality={100}
+          />
         </div>
       </section>
+
       <section className="flex flex-col gap-4 items-center py-7 after:content-[''] after:bg-pink-200   after:absolute relative after:inset-0 after:skew-y-3 after:-z-10 ">
         <TypographyH2 content={"Explore some Latest Blog Posts"} />
         <div

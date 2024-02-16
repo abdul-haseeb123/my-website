@@ -30,7 +30,11 @@ export function ThemeSwitcher() {
       className="bg-transparent"
       disableRipple
     >
-      {theme == "light" ? <MoonStar /> : <SunMedium />}
+      {theme == "light" ? (
+        <MoonStar color="#0ea5e9" />
+      ) : (
+        <SunMedium color="#0ea5e9" />
+      )}
     </Button>
   );
 }

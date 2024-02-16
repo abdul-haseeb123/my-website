@@ -1,0 +1,83 @@
+3:I[1949,[],""]
+5:I[881,[],""]
+6:I[2262,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","185","static/chunks/app/layout-0acfaa9e13949461.js"],"Providers"]
+7:I[5533,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","185","static/chunks/app/layout-0acfaa9e13949461.js"],""]
+8:I[1954,["489","static/chunks/489-89cedceccc2240ac.js","498","static/chunks/498-bb8df29f38781016.js","954","static/chunks/954-0178385449739fc1.js","729","static/chunks/729-6b2b066aeec9098c.js","606","static/chunks/app/blogs/page-c71ab03b095d0cb6.js"],""]
+4:["slug","introduction-to-python","d"]
+0:["3NZLV-UjYIRr5ppoaC9D2",[[["",{"children":["blogs",{"children":[["slug","introduction-to-python","d"],{"children":["__PAGE__?{\"slug\":\"introduction-to-python\"}",{}]}]}]},"$undefined","$undefined",true],["",{"children":["blogs",{"children":[["slug","introduction-to-python","d"],{"children":["__PAGE__",{},["$L1","$L2",null]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blogs","children","$4","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children","blogs","children"],"loading":"$undefined","loadingStyles":"$undefined","loadingScripts":"$undefined","hasLoading":false,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined","styles":null}]]},[null,["$","html",null,{"lang":"en","className":"dark","children":["$","body",null,{"className":"dark:bg-gradient-to-tr dark:from-slate-900 dark:via-zinc-900 dark:to-blue-950 min-h-screen  __className_ac60ce","children":["$","$L6",null,{"children":[["$","$L7",null,{}],["$","$L3",null,{"parallelRouterKey":"children","segmentPath":["children"],"loading":["$","div",null,{"aria-label":"Loading","className":"relative flex-col gap-2 items-center justify-center h-screen grid place-content-center","children":[["$","div",null,{"className":"relative flex w-10 h-10","children":[["$","i",null,{"className":"absolute w-full h-full rounded-full animate-spinner-ease-spin border-solid border-t-transparent border-l-transparent border-r-transparent border-3 border-b-primary"}],["$","i",null,{"className":"absolute w-full h-full rounded-full opacity-75 animate-spinner-linear-spin border-dotted border-t-transparent border-l-transparent border-r-transparent border-3 border-b-primary"}]]}],"$undefined"]}],"loadingStyles":[],"loadingScripts":[],"hasLoading":true,"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[],"styles":null}],["$","footer",null,{"className":"bg-[#7f27ff] rounded-lg shadow dark:bg-gray-900 m-4","children":["$","div",null,{"className":"w-full max-w-screen-xl mx-auto p-4 md:py-8","children":[["$","div",null,{"className":"sm:flex sm:items-center sm:justify-between","children":[["$","$L8",null,{"href":"/","className":"flex items-center mb-4 sm:mb-0  space-x-3 rtl:space-x-reverse","children":[["$","img",null,{"src":"/2.png","className":"h-24","width":100,"height":100}],["$","span",null,{"className":"self-center text-2xl font-semibold whitespace-nowrap dark:text-white text-white","children":"College Chemistry"}]]}],["$","ul",null,{"className":"flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400","children":[["$","li",null,{"children":["$","$L8",null,{"href":"/about","className":"hover:underline me-4 md:me-6 text-white","children":"About"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/mcqs","className":"hover:underline me-4 md:me-6 text-white","children":"MCQs"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/lessons","className":"hover:underline me-4 md:me-6 text-white","children":"Lessons"}]}],["$","li",null,{"children":["$","$L8",null,{"href":"/blogs","className":"hover:underline text-white","children":"Blogs"}]}]]}]]}],["$","hr",null,{"className":"my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8"}],["$","span",null,{"className":"block text-sm text-white sm:text-center dark:text-gray-400","children":["© 2023"," ",["$","$L8",null,{"href":"/","className":"hover:underline text-white","children":"College Chemistry™"}],". All Rights Reserved."]}]]}]}]]}]}]}],null]],[[["$","link","0",{"rel":"stylesheet","href":"/my-website/_next/static/css/2cb032dd6b2bf40d.css","precedence":"next","crossOrigin":""}]],"$L9"]]]]
+a:T112e,
+# Introduction to Python
+Python is a powerful, versatile, and beginner-friendly programming language that has become increasingly popular in various domains due to its readability, extensive libraries, and supportive community. If you're interested in diving into the world of programming, Python is an excellent choice!
+
+### Why Learn Python?
+![premium_photo-1706625695154-d8a6a1c275d8](http://localhost:1337/uploads/premium_photo_1706625695154_d8a6a1c275d8_7f9a25e63d.jpeg)
+
+* **Readability:** Python's syntax is clear and concise, resembling natural language, making it easier to learn and write code compared to other languages.
+* **Versatility:** Python excels in diverse domains, from web development and data science to machine learning and automation.
+* **Large Standard Library:** Python boasts a rich ecosystem of built-in modules and libraries, providing ready-to-use tools for various tasks, enhancing your productivity.
+* **Active Community:** With a strong and ever-growing community, you'll find abundant resources, tutorials, and forums to support your learning journey.
+* **Cross-Platform:** Python runs seamlessly on Windows, macOS, Linux, and other platforms, offering flexibility.
+
+## Getting Started with Python
+
+1. **Installation:**
+   - Visit the official Python website ([https://www.python.org/](https://www.python.org/)) and download the latest version suitable for your operating system.
+   - Follow the installation instructions, ensuring Python is added to your system's environment variables.
+2. **Choose an IDE or Text Editor:**
+   - An integrated development environment (IDE) or a text editor can serve as your coding workspace. Popular options include:
+     - PyCharm (professional features, paid option available)
+     - Visual Studio Code (versatile, extensible)
+     - IDLE (basic IDE included with Python installation)
+     - Atom (highly customizable)
+     - Sublime Text (powerful)
+   - Select one that caters to your preferences and learning style.
+3. **Write Your First Program:**
+   - Open your chosen IDE or text editor and create a new file (e.g., `hello.py`).
+   - Type the following code:
+
+   ```python
+   print("Hello, world!")
+   ```
+
+   - Save the file and run it using the IDE's run button or terminal command (`python hello.py`).
+   - You should see the message "Hello, world!" printed in the console, marking your entry into the world of Python programming!
+
+### Basic Python Concepts
+
+* **Variables:** Store data values using descriptive names (e.g., `name`, `age`).
+* **Data Types:** Different types of data (e.g., numbers, text, booleans).
+* **Operators:** Perform operations on data (e.g., addition, subtraction, comparison).
+* **Control Flow:** Use statements to direct the program's execution (e.g., `if`, `else`, `for`, `while` loops).
+* **Functions:** Reusable blocks of code that perform specific tasks.
+* **Objects:** Data structures that encapsulate data and behavior.
+
+### Learning Resources
+
+* **Official Python Tutorial:** [https://docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
+* **Codecademy's Python 3 course:** [https://www.codecademy.com/learn/learn-python-3](https://www.codecademy.com/learn/learn-python-3)
+* **Coursera's Introduction to Python Programming:** [https://www.coursera.org/learn/python-programming-intro](https://www.coursera.org/learn/python-programming-intro)
+* **DataCamp's Introduction to Python for Data Science:** [https://www.datacamp.com/courses/intro-to-python-for-data-science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* **Books:**
+   - "Automate the Boring Stuff with Python" by Al Sweigart
+   - "Fluent Python" by Luciano Ramalho
+   - "Python Crash Course" by Eric Matthes
+
+**Beyond the Basics**
+
+As you progress, explore more advanced topics like:
+
+* Object-oriented programming (OOP)
+* Data structures and algorithms
+* Web development with frameworks like Django and Flask
+* Data science with libraries like NumPy, Pandas, and Scikit-learn
+* Machine learning with TensorFlow, PyTorch, and scikit-learn
+* Automation with libraries like Selenium
+* System administration with tools like Ansible and Fabric
+
+
+
+**Remember:** Practice regularly, experiment, and don't be afraid to make mistakes. The supportive Python community is always there to help you on your coding journey!
+
+I hope this enhanced lesson effectively guides you towards mastering Python!2:["$","main",null,{"className":"container p-4 prose dark:prose-invert mx-auto prose-a:text-pink-500 prose-headings:text-pink-400 prose-strong:text-pink-400 prose-lg hover:prose-headings:text-pink-500 hover:prose-a:text-pink-300 prose-h1:text-pink-400","dangerouslySetInnerHTML":{"__html":"$a"}}]
+9:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"Introduction To Python"}],["$","meta","3",{"name":"description","content":"Python is a powerful, versatile, and beginner-friendly programming language that has become increasingly popular in various domains due to its readability, extensive libraries, and supportive community"}],["$","meta","4",{"property":"og:title","content":"Introduction To Python"}],["$","meta","5",{"property":"og:description","content":"Python is a powerful, versatile, and beginner-friendly programming language that has become increasingly popular in various domains due to its readability, extensive libraries, and supportive community"}],["$","meta","6",{"property":"og:image","content":"http://localhost:1337/uploads/photo_1580121441575_41bcb5c6b47c_7cbeca382b.jpeg"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Introduction To Python"}],["$","meta","10",{"name":"twitter:description","content":"Python is a powerful, versatile, and beginner-friendly programming language that has become increasingly popular in various domains due to its readability, extensive libraries, and supportive community"}],["$","meta","11",{"name":"twitter:image","content":"http://localhost:1337/uploads/photo_1580121441575_41bcb5c6b47c_7cbeca382b.jpeg"}],["$","link","12",{"rel":"icon","href":"/my-website/favicon.ico","type":"image/x-icon","sizes":"16x16"}],["$","link","13",{"rel":"icon","href":"/my-website/icon.png?e0f9cca74c5a12f2","type":"image/png","sizes":"192x192"}],["$","link","14",{"rel":"icon","href":"/my-website/icon2.png?f1a27ef9cf08f950","type":"image/png","sizes":"512x512"}],["$","link","15",{"rel":"icon","href":"/my-website/icon3.png?3d88ef6bc0010919","type":"image/png","sizes":"16x16"}],["$","link","16",{"rel":"icon","href":"/my-website/icon4.png?f0bbc6f831e92a46","type":"image/png","sizes":"32x32"}],["$","link","17",{"rel":"apple-touch-icon","href":"/my-website/apple-icon.png?91a55f3abc9063e7","type":"image/png","sizes":"180x180"}]]
+1:null

@@ -6,26 +6,26 @@ import NextImage from "next/image";
 
 function Footer() {
   return (
-    <footer className="bg-pink-50 dark:bg-orange-50 dark:border-t-medium dark:border-pink-400 mt-12">
+    <footer className=" border-t-large dark:border-zinc-700 border-zinc-300 mt-12 rounded-lg shadow-lg">
       <div className="container mx-auto p-3 flex flex-wrap justify-evenly gap-2 relative items-center">
         <Image
-          src={"/college-chemistry.png"}
-          width={210}
-          height={210}
+          src={"/2.png"}
+          width={360}
+          height={360}
           alt="College Chemistry"
-          className="w-full object-cover"
+          className="w-full md:w-[250px] md:h-[250px] lg:h-[350px] lg:w-[350px] object-cover"
           as={NextImage}
         />
         <div className="flex flex-wrap gap-6 ">
-          <Link size="lg" href="/lessons" color="primary">
+          <Link size="lg" href="/lessons" color="foreground">
             Lessons
           </Link>
 
-          <Link size="lg" href="/blogs" color="primary">
+          <Link size="lg" href="/blogs" color="foreground">
             Blogs
           </Link>
 
-          <Link size="lg" href="/mcqs" color="primary">
+          <Link size="lg" href="/mcqs" color="foreground">
             MCQs
           </Link>
         </div>
@@ -43,12 +43,7 @@ function Footer2() {
             href="/"
             className="flex items-center mb-4 sm:mb-0  space-x-3 rtl:space-x-reverse"
           >
-            <NextImage
-              src={"/2.png"}
-              className="h-24"
-              width={100}
-              height={100}
-            />
+            <img src={"/2.png"} className="h-24" width={100} height={100} />
             <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white text-white">
               College Chemistry
             </span>

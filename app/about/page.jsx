@@ -1,7 +1,5 @@
 async function getAbout() {
-  const res = await fetch(process.env.BACKEND_URL + "/api/about", {
-    cache: "no-store",
-  });
+  const res = await fetch(process.env.BACKEND_URL + "/api/about");
   return res.json();
 }
 

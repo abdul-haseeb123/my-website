@@ -1,9 +1,16 @@
+export async function generateStaticParams() {
+  const posts = await fetch(process.env.BACKEND_URL + "/api/blogs").then(
+    (res) => res.json()
+  );
+  return posts.data.map((post) => ({
+    slug: post.attributes.slug,
+  }));
+}
+
 async function getBlog(slug) {
   const res = await fetch(
-    process.env.BACKEND_URL + `/api/blogs/?populate=cover&slug=${slug}`,
-    {
-      cache: "no-store",
-    }
+    process.env.BACKEND_URL +
+      `/api/blogs/?populate=cover&filters[slug][$eq]=${slug}`
   );
   return res.json();
 }

@@ -1,10 +1,16 @@
+export async function generateStaticParams() {
+  const lessons = await fetch(process.env.BACKEND_URL + "/api/lessons").then(
+    (res) => res.json()
+  );
+  return lessons.data.map((lesson) => ({
+    slug: lesson.attributes.slug,
+  }));
+}
+
 async function getLesson(slug) {
   const res = await fetch(
     process.env.BACKEND_URL +
-      `/api/lessons?populate=cover&filters[slug][$eq]=${slug}&fields[0]=title&fields[1]=slug&fields[2]=description&fields[3]=content&fields[4]=youtube_video`,
-    {
-      cache: "no-store",
-    }
+      `/api/lessons?populate=cover&filters[slug][$eq]=${slug}&fields[0]=title&fields[1]=slug&fields[2]=description&fields[3]=content&fields[4]=youtube_video`
   );
   return res.json();
 }
